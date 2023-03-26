@@ -24,6 +24,10 @@ Currently, I am seeking to work with like-minded and ambitious individuals in a 
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" />
+  <img alt="react-testing-lib" src="https://img.shields.io/badge/-React%20Testing%20Library-E33332?style=flat-square&logo=testing-library&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Vitest-646CFF?style=flat-square" />
+  
   <img alt="Eslint" src="https://img.shields.io/badge/-ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="git" src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git" />
@@ -44,6 +48,9 @@ Currently, I am seeking to work with like-minded and ambitious individuals in a 
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
 
 </p>
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=booi-dev&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=booi-dev&hide=TeX&layout=compact)
 
 <h2>Things I create</h2>
 <p> 
