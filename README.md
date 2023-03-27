@@ -16,6 +16,9 @@ Currently, I am seeking to work with like-minded and ambitious individuals in a 
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
   
+  <img alt="React Query" src="https://img.shields.io/badge/-Axios-007ACC?style=flat-square&logo=axios&logoColor=white" />
+  <img alt="React Query" src="https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=react&logoColor=white" />
+  
   <img alt="Next" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next-dot-js&logoColor=white" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
 
