@@ -76,4 +76,7 @@ Currently, I am seeking to work with like-minded and ambitious individuals in a 
 
 Find out more about me & feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-nnmeitei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)]([https://www.linkedin.com/in/ludehsar/](https://www.linkedin.com/in/nnganthoimeitei/))  [![Twitter Badge](https://img.shields.io/badge/-booi.dev-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://www.linkedin.com/in/ludehsar/)]([https://www.linkedin.com/in/ludehsar/](https://twitter.com/booi_mangang))
+[![Linkedin Badge](https://img.shields.io/badge/-nnmeitei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nnganthoimeitei/)](https://www.linkedin.com/in/nnganthoimeitei/)  [![Twitter Badge](https://img.shields.io/badge/-booi.dev-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/booi_mangang)](https://twitter.com/booi_mangang)
+
+
+
