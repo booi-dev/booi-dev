@@ -59,16 +59,19 @@ Currently, I am seeking to work with like-minded and ambitious individuals in a 
 
 <h2>Things I create</h2>
 <p> 
-  <h3> fake game-store 
+    <h3> Social Media Clone
+    <a href="https://booi-dev.github.io/social-media/">see live</a>
+  </h3>
+  <h3> Fake Game-Store 
     <a href="https://booi-dev.github.io/fake-gamestore/">see live</a>
   </h3>
-  <h3> redux-todo 
+  <h3> Redux-Todo 
     <a href="https://booi-dev.github.io/todo-redux-app/">see live</a>
   </h3>
-   <h3> redux-todo 
+   <h3> Weather-App
     <a href="https://booi-dev.github.io/weather-app/">see live</a>
   </h3>
-   <h3> redux-todo 
+   <h3> Tic-Tac-Toe
     <a href="https://booi-dev.github.io/tic-tac-toe/">see live</a>
   </h3>
  </p>
