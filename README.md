@@ -50,8 +50,6 @@ Currently, I am seeking to work with like-minded and ambitious individuals in a 
   
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white" />
-
 </p>
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=booi-dev&count_private=true&show_icons=true&include_all_commits=true)
