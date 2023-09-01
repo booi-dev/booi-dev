@@ -57,26 +57,6 @@ Currently, I am seeking to work with like-minded and ambitious individuals in a 
 ![booi-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=booi-dev&theme=tokyonight&hide_border=true)
 ![booi-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=booi-dev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-<h2>Things I create</h2>
-<p> 
-    <h3> Social Media Clone
-    <a href="https://booi-dev.github.io/social-media/">see live</a>
-  </h3>
-  <h3> Fake Game-Store 
-    <a href="https://booi-dev.github.io/fake-gamestore/">see live</a>
-  </h3>
-  <h3> Redux-Todo 
-    <a href="https://booi-dev.github.io/todo-redux-app/">see live</a>
-  </h3>
-   <h3> Weather-App
-    <a href="https://booi-dev.github.io/weather-app/">see live</a>
-  </h3>
-   <h3> Tic-Tac-Toe
-    <a href="https://booi-dev.github.io/tic-tac-toe/">see live</a>
-  </h3>
- </p>
-
-
 Find out more about me & feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-nnmeitei-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nnganthoimeitei/)](https://www.linkedin.com/in/nnganthoimeitei/)  [![Twitter Badge](https://img.shields.io/badge/-bo'ma-blue?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/boma_dev)](https://twitter.com/boma_dev)
