@@ -18,6 +18,7 @@ Currently, I am seeking to work with like-minded and ambitious individuals in a 
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Express" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-00758F?style=flat-square&logo=sql&logoColor=white" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
 
@@ -42,13 +43,11 @@ Currently, I am seeking to work with like-minded and ambitious individuals in a 
 
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
  
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
   
-  <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
 ![booi-dev's Stats](https://github-readme-stats.vercel.app/api?username=booi-dev&theme=gotham&show_icons=true&hide_border=true&count_private=true) ![booi-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=booi-dev&theme=gotham&show_icons=true&hide_border=true&layout=compact)
