@@ -1,14 +1,12 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi! There.</h1>
 
-<p>Welcome to my page! </br> I'm NN Meitei alias, Booi , Web developer from <b>Imphal, Manipur</b>, currently living in <b>Delhi, India</b>. </p>
+![booi-dev](https://github.com/booi-dev/booi-dev/assets/56810550/e5515789-8673-4f50-8801-452c34139bcf)
 
-I have experience creating several portfolios and restaurant websites.
+<p> <h3> Welcome to my page! </h3>  </br> I'm NN Meitei alias, Booi , web developer from <b>Imphal, Manipur</b>, currently living in <b>Delhi, India</b>. </p>
 
-My focus is on creating user-friendly, accessible, and optimized React applications. I use React.js as my primary tool and am committed to writing clean and efficient code that delivers exceptional user experiences. Additionally, I make it a priority to stay current with the latest trends and technologies in the industry.
+I focus on creating user-friendly, accessible, and optimized React applications. I use React.js as my primary tool and am committed to writing clean and efficient code that delivers exceptional user experiences. Additionally, I make it a priority to stay current with the latest trends and technologies in the industry.
 
 Currently, I am seeking to work with like-minded and ambitious individuals in a team environment at a reputable firm. If you have a project that requires my expertise, please consider me for your next project.
-
-
 
 <h2>Things I code with</h2>
 
@@ -53,9 +51,7 @@ Currently, I am seeking to work with like-minded and ambitious individuals in a 
   <img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 </p>
 
-![booi-dev's Stats](https://github-readme-stats.vercel.app/api?username=booi-dev&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
-![booi-dev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=booi-dev&theme=tokyonight&hide_border=true)
-![booi-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=booi-dev&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![booi-dev's Stats](https://github-readme-stats.vercel.app/api?username=booi-dev&theme=gotham&show_icons=true&hide_border=true&count_private=true) ![booi-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=booi-dev&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 Find out more about me & feel free to connect with me here:
 
