@@ -50,6 +50,8 @@ Currently, I am seeking to work with like-minded and ambitious individuals in a 
   
 </p>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=booi-dev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![booi-dev's Stats](https://github-readme-stats.vercel.app/api?username=booi-dev&theme=gotham&show_icons=true&hide_border=true&count_private=true) ![booi-dev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=booi-dev&theme=gotham&show_icons=true&hide_border=true&layout=compact)
 
 Find out more about me & feel free to connect with me here:
